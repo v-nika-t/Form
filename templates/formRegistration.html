@@ -1,0 +1,48 @@
+<form id="registration" onsubmit="return false;">
+    <fieldset>
+
+        <legend>Регистрационные данные</legend>
+
+
+        <table class="form">
+            <tr>
+                <td> <b>Логин</b> </td>
+                <td><input type="text" name="login" required placeholder="Введите логин"></td>
+
+            </tr>
+
+            <tr>
+                <td> <b>Пароль</b> </td>
+                <td><input name="password" type="password" required placeholder="Введите пароль"></td>
+
+            </tr>
+            <tr>
+                <td> <b>Подтверждение пароля</b> </td>
+                <td><input type="password" name="confirmPassword" required placeholder="Введите пароль"></td>
+
+            </tr>
+
+
+            <tr>
+                <td> <b>E-mail</b> </td>
+                <td><input name="email" type="email" required placeholder="Введите e-mail"></td>
+
+            </tr>
+
+            <tr>
+                <td> <b>ФИО</b> </td>
+                <td><input name="name" required placeholder="Введите ФИО"></td>
+
+            </tr>
+
+
+
+        </table>
+
+    </fieldset>
+
+    <input type="submit" value="Сохранить" class="save" onclick='registration()'>
+
+    <button><a href="index.php">Назад</a></button>
+
+</form>

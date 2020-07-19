@@ -1,0 +1,105 @@
+body,
+html {
+
+    margin: 0;
+    padding: 0;
+    background: #B0C4DE;
+}
+
+fieldset input {
+
+    height: 20px;
+    border-radius: 10px;
+    border: 1px solid grey;
+    padding-left: 10px;
+    margin-left: 30px;
+    margin-bottom: 5px;
+
+}
+
+fieldset {
+
+
+    width: 400px;
+    margin-bottom: 20px;
+
+
+
+
+}
+
+#registration,
+#login {
+
+    margin-left: 30%;
+    margin-top: 15px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    background-image: linear-gradient(to top right, rgb(101, 115, 255), rgb(111, 114, 247), rgb(120, 114, 239), rgb(130, 113, 231), rgb(139, 112, 223), rgb(149, 111, 215), rgb(158, 111, 208), rgb(168, 110, 200), rgb(177, 109, 192), rgb(187, 108, 184), rgb(196, 108, 176), rgb(206, 107, 168));
+    width: 445px;
+    border-radius: 15px;
+
+}
+
+.save,
+#registration button,
+.signIn,
+#login button,
+.registartion {
+
+    border-radius: 70px;
+    width: 120px;
+    height: 40px;
+    border: 3px solid grey;
+
+}
+
+.save {
+
+    margin-left: 80px;
+
+
+}
+
+a {
+
+    text-decoration: none;
+
+
+
+}
+
+#login div input {
+
+    height: 20px;
+    border-radius: 10px;
+    border: 1px solid grey;
+    padding-left: 10px;
+    height: 30px;
+    margin-bottom: 5px;
+
+
+}
+
+#login div input:first-child {
+
+    margin-left: 34px;
+
+
+}
+
+.signIn {
+
+    margin-left: 90px;
+
+
+}
+
+#login div {
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+
+}

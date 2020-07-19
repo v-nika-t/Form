@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+        <user>
+
+            <login>Veronika</login>
+            <email>vt@mail.ru</email>
+            <name>Тишелович Вероника Анатольевна</name>
+            <password>4afc0f60422ee404756fd9e23f9b3d84</password>
+            <salt>VKBdd!zypl</salt>
+
+        </user>
+
+        <user>
+             <login>Julia</login>
+             <email>fdjs@mail.ru</email>
+             <name>Шкатула Юлия</name>
+             <password>4afc0f60422ee404756fd9e23f9b3d84</password>
+             <salt>VKBdd!zypl</salt>
+
+        </user>
+
+    <user><login>ushi_js@mail.ru</login><email>12345@tut.by</email><name>rwre</name><password>55baea4b0326aecb0328f22cc209c287</password><salt>K+tw[K</salt></user></users>
